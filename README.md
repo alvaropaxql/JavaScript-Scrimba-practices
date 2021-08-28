@@ -8,6 +8,8 @@
 
 Throughout the course, three apps were built on JavaScript. These are the apps:
 
-+ **First practice** : Passenger counting app
-+ **Second practice** :
-+ **Third practice** :
++ *First practice* : **Passenger counting app**
+![Passenger counting app](/PassengerCountingApp/screenshots/passenger_counter.jpg "Passenger counting app")
++ *Second practice* : **Blackjack game app**
+![Blackjack game app](/BlackjackGame/screenshots/blackjack.jpg "Blackjack game app")
++ *Third practice* :
